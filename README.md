@@ -20,7 +20,7 @@ blog_app/
 │ ├── package.json
 │ └── ...
 │
-├── frontend/
+## ├── frontend/
 │ ├── src/
 │ │ ├── components/
 │ │ ├── services/
@@ -46,6 +46,7 @@ npm install
 MONGO_URI=your_mongodb_connection_string_here
 nodemon server.js
 
+### 2️⃣ Frontend (Vite React)
 Another terminal
  Frontend (React + Vite)
 cd frontend

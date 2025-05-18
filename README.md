@@ -46,6 +46,8 @@ npm install
 MONGO_URI=your_mongodb_connection_string_here
 nodemon server.js
 
+##How to run
+
 ### 2️⃣ Frontend (Vite React)
 Another terminal
  Frontend (React + Vite)
